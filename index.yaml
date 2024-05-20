@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ci-lab:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-05-21T02:34:47.9378606+07:00"
+    description: CI Lab
+    digest: 8b51c8e2e138c24bac05caaf5b1422ea1ae6c01f863b27b73bc67c34ea8e2bff
+    name: ci-lab
+    type: application
+    urls:
+    - https://github.com/kittisak-kueb/kittisak-kueb.github.io/ci-lab-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-05-21T02:34:47.937337+07:00"

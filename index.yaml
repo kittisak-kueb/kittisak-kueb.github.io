@@ -9,6 +9,6 @@ entries:
     name: ci-lab
     type: application
     urls:
-    - https://github.com/kittisak-kueb/kittisak-kueb.github.io/ci-lab-1.0.0.tgz
+    - https://kittisak-kueb.github.io/ci-lab-1.0.0.tgz
     version: 1.0.0
 generated: "2024-05-21T02:34:47.937337+07:00"

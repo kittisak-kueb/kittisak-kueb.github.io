@@ -14,3 +14,5 @@ helm repo add cilab https://kittisak-kueb.github.io
 ```
 
 You can then run `helm search repo cilab` to see the charts.
+
+Please checkout [CI Lab Release Package](https://github.com/kittisak-kueb/cilab-helm-charts/releases)

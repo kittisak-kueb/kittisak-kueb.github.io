@@ -9,6 +9,6 @@ entries:
     name: ci-lab
     type: application
     urls:
-    - https://kittisak-kueb.github.io/ci-lab-1.0.0.tgz
+    - https://github.com/kittisak-kueb/cilab-helm-charts/releases/download/cilab-1.0.0/ci-lab-1.0.0.tgz
     version: 1.0.0
 generated: "2024-05-24T21:27:27.936818+07:00"

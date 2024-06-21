@@ -21,4 +21,14 @@ entries:
     urls:
     - https://github.com/kittisak-kueb/cilab-helm-charts/releases/download/cilab-1.1.0/ci-lab-1.1.0.tgz
     version: 1.1.0
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2024-06-21T08:12:53.481434+07:00"
+    description: CI Lab for AWS EKS
+    digest: 5e6e6fc5875cc234193a42b6ef281ba682dc2a2a8f4d0f2dc561d59878dedb3b
+    name: ci-lab
+    type: application
+    urls:
+    - https://github.com/kittisak-kueb/cilab-helm-charts/releases/download/cilab-1.1.1/ci-lab-1.1.1.tgz
+    version: 1.1.1
 generated: "2024-05-24T21:27:27.936818+07:00"

@@ -13,9 +13,9 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-06-20T19:26:14.963719+07:00"
+    created: "2024-06-21T07:10:45.003127+07:00"
     description: CI Lab
-    digest: dc6ff1fd5903dc09d719bde47cc5e6b3e4725d9d25405cd7eee73dc6508ed617
+    digest: 166a31ae4e48b8d60bfd2e0d2d9d18a54a219bf1f0dcbe4c10a095e9359349ff
     name: ci-lab
     type: application
     urls:

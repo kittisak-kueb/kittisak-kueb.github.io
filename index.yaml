@@ -51,4 +51,14 @@ entries:
     urls:
     - https://github.com/kittisak-kueb/cilab-helm-charts/releases/download/cilab-1.2.1/ci-lab-1.2.1.tgz
     version: 1.2.1
+  - apiVersion: v2
+    appVersion: 1.3.0
+    created: "2024-09-16T06:01:50.847651+07:00"
+    description: CI Lab
+    digest: e2cb56fe3fc1e2300697f6b4ab9f9cbc0cc99d60f7ba4b8e3ecc4b1e790d51c3
+    name: ci-lab
+    type: application
+    urls:
+    - https://github.com/kittisak-kueb/cilab-helm-charts/releases/download/cilab-1.3.0/ci-lab-1.3.0.tgz
+    version: 1.3.0
 generated: "2024-05-24T21:27:27.936818+07:00"
